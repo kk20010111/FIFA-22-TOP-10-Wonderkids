@@ -19,3 +19,5 @@ This repository serves as a demonstration of **Exploratory Data Analysis (EDA)**
 
 ## 📊 Sample Insights
 The analysis highlights high-growth players like **Pedri**, **Ryan Gravenberch**, and **Ansu Fati**, providing a deep dive into their specific skill sets. The radar charts allow for a "technical fingerprint" comparison between players.
+
+<img width="749" height="752" alt="image" src="https://github.com/user-attachments/assets/6fbe89f6-a18f-482c-bdf6-2fca585bb4ab" />
